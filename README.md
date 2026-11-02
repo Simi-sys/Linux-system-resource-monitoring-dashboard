@@ -1,4 +1,5 @@
 # Linux System Resource Monitoring Dashboard
+#Abstract
 
 ## Aim
 To build a Python-based Linux dashboard that monitors CPU, memory, disk usage,
