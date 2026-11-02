@@ -1,5 +1,5 @@
 # Linux System Resource Monitoring Dashboard
-#Abstract
+##Abstract
 The Linux System Resource Monitoring Dashboard is a Python-based application that monitors and displays the current resource utilization of a Linux computer. It collects information about CPU usage, memory consumption, disk usage, disk I/O, and running processes.
 The dashboard identifies processes that consume high amounts of CPU or memory. It helps users understand system performance, detect resource-intensive applications, and analyze resource utilization. The project demonstrates important Operating System concepts, including process management, memory management, file systems, process monitoring, and system resource allocation.
 
