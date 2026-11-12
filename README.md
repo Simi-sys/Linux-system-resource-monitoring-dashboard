@@ -79,9 +79,8 @@ Ctrl + C
 
 📊 Sample Output
 
-==========================================
  LINUX SYSTEM RESOURCE MONITORING DASHBOARD
-==========================================
+
 
 Operating System: Linux
 Computer Name: Your-Computer
@@ -95,9 +94,7 @@ Memory Usage: 38.61%
 
 Top 5 Processes by Memory Usage
 
-PID       Memory (MB)       Process
-------------------------------------------
-...
+PID       Memory (MB)       P
 
 Refreshing every 3 seconds...
 Press Ctrl+C to stop.
